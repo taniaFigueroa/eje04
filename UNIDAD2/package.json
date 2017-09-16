@@ -1,0 +1,15 @@
+{
+  "name": "unidad2",
+  "version": "1.0.0",
+  "description": "Ejemplo ",
+  "main": "eje01.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tania figueroa",
+  "license": "ISC"
+}
